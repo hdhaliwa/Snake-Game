@@ -10,4 +10,4 @@ do
 npm run play
 
 Here is the screenshot of the game.
-![Screen shot of game](https://cl.ly/e95559e67eca)
+![Screen shot of game]https://cl.ly/e95559e67eca
